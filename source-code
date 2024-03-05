@@ -1,9 +1,4 @@
 #so this is a beta version. if something seems out of place or like a careless error, feel free to change it.
-A = float('4')
-B = float('3')
-C = float('2')
-D = float('1')
-F = float('0')
 name_stdnt = input("Hello! What's your name? ")
 print("Hello, " + name_stdnt + ".")
 print("Welcome to Fayetteville High School's GPA calculator, made by students at our very own school!")
